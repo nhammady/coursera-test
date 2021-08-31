@@ -18,8 +18,10 @@ Syntax highlighted code block
 - Bulleted
 - List
 
-1. Numbered
-2. List
+1. find the right decision
+2. planning stage
+3. implemntation
+4. follow up and result finding stage
 
 **Bold** and _Italic_ and `Code` text
 
